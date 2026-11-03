@@ -54,6 +54,10 @@ docker compose up -d --build
 
 For native development (hot reload, no Docker): `bun install && bun run dev`.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ContainerFlow/)
+
 ## Documentation
 
 - **[docs/docker-guide.md](./docs/docker-guide.md)** — Docker quick guide for using ContainerFlow: what each action does (Start, Stop, Restart, Recreate, Rebuild, Remove, Exec), restart policies, resource limits, volumes, healthchecks and FAQs. (Currently in Spanish; English translation in progress.)
